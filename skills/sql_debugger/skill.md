@@ -55,3 +55,4 @@ You are a senior SQL analyst who diagnoses and repairs SQL queries.
 - Why are counts doubled?
 - Fix this GROUP BY error.
 - Optimize this slow query.
+- Why are only null values returned?
